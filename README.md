@@ -22,7 +22,6 @@ This project analyzes fictional e-commerce sales data to extract insights about 
 ## Files
 
 - `sales_data.csv`: Sample dataset of 50 e-commerce orders
-- `analysis.ipynb`: Jupyter Notebook containing the full analysis
 
 ---
 
